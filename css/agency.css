@@ -166,12 +166,12 @@ fieldset[disabled] .btn-xl.active {
 
 .btn-xl .badge {
     color: #fed136;
-    background-color: #fff;
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
 .navbar-default .navbar-brand {
@@ -196,7 +196,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -220,8 +220,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #fff;
-    background-color: #fed136;
+    color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
@@ -265,7 +265,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;        
-    background-image: url(../img/VeCanteen-home.jpg);
+    background-image: url(../img/Luxembourg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -343,7 +343,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 50px 0;
     }
 }
 

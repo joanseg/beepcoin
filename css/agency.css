@@ -426,7 +426,12 @@ section h3.section-subheading {
 
 .img-responsive{
     margin: 0 auto;
-    width: 175px;
+    width: 200px;
+}
+
+.img-responsive-horizontal{
+    margin: 80px auto;
+    width: 360px;
 }
 
 @media(min-width:767px) {
